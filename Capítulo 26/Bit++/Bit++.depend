@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603856989 source:c:\users\dulce\documents\programación en c, c++, java y uml\capítulo 26\bit++\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

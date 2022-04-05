@@ -1,0 +1,7 @@
+EL PROTOTIPO DE AMBAS FUNCIONES ESTÁ EN STDIO.H Y ES EL SIGUIENTE:
+int fputs(char* cad, FILE* pf);
+char* fgets(char* cad, int n, FILE* pf);EL PROTOTIPO DE AMBAS FUNCIONES ESTÁ EN STDIO.H Y ES EL SIGUIENTE:
+int fputs(char* cad, FILE* pf);
+char* fgets(char* cad, int n, FILE* pf);EL PROTOTIPO DE AMBAS FUNCIONES ESTÁ EN STDIO.H Y ES EL SIGUIENTE:
+int fputs(char* cad, FILE* pf);
+char* fgets(char* cad, int n, FILE* pf);
